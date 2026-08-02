@@ -1,2 +1,2 @@
-2.3
-https://github.com/Team-Nubin/holy-moly-releases/releases/download/v2.3/HolyMoly-2.3.zip
+2.4
+https://github.com/Team-Nubin/holy-moly-releases/releases/download/v2.4/HolyMoly-2.4.zip
